@@ -1,8 +1,8 @@
 # Receiver Optimism LockAndPush V1.1.0
 
-**Environment Variable** 
-```.sh 
-export AUTOTASK_ID=
+**Environment Variable**
+```.sh
+export AUTOTASK_ID=bd7296c4-2f1d-4e8c-b678-6274320fb802
 ```
 
 # Setup
